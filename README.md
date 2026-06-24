@@ -1,1 +1,4 @@
-# Machine_learning_Project
+# Energy_consumption_forecasting_using_machine_learning
+This project presents a comprehensive framework for energy consumption forecasting using high-resolution smart meter data. The study utilizes more than 2.9 million records containing energy consumption, voltage, current, and frequency measurements collected over time. The workflow includes data preprocessing, data quality assessment, outlier detection using the IQR method, exploratory data analysis (EDA), temporal pattern analysis, and time-series forecasting.
+
+To capture both linear and nonlinear consumption patterns, traditional statistical models such as ARIMA and deep learning models such as Long Short-Term Memory (LSTM) networks are implemented and evaluated. The forecasting models are assessed using standard performance metrics including MAE, MSE, RMSE, and R² Score. The project aims to improve energy demand prediction, resource planning, load balancing, and smart grid decision-making through accurate short-term energy consumption forecasting.
